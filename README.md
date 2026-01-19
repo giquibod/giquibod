@@ -1,4 +1,4 @@
-![Profile Header](https://github.com/giquibod/giquibod/blob/main/Github%20Header.png)
+![Profile Header](https://github.com/giquibod/giquibod/blob/main/profile/HEADER.png)
 
 # 💫 About Me:
 🔭 I’m currently working on some freelance commissions.<br>👯 I’m looking to collaborate on creating meaningful lectures.<br>🤝 I’m looking for help with expanding my knowledge in tech.<br>🌱 I’m currently learning various backend technologies.<br>💬 Ask me about nothing.<br>⚡ Fun fact: I'm alive.
